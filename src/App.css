@@ -1,0 +1,102 @@
+html body {
+  background: rgb(185 231 231) !important;
+  width: 100%;
+  height: 100%;
+}
+
+.outline {
+  height: 100vh;
+}
+
+.backgroun-design {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 80%;
+}
+
+.tip-amount {
+  background: rgba(0, 74, 75) !important;
+  border-radius: 10px;
+}
+
+.person {
+  color: rgba(0, 208, 175);
+  font-size: 10px;
+}
+
+.amount {
+  color: rgba(0, 208, 175);
+  font-size: 30px;
+}
+
+.reset-color {
+  background-color: rgba(120, 240, 223);
+  border: none;
+  padding: 7px;
+  border-radius: 4px;
+  font-weight: 600;
+  position: absolute;
+  bottom: 15px;
+  width: 93%;
+  cursor: pointer;
+}
+
+.tip-amount {
+  background: rgba(0, 74, 75) !important;
+  border-radius: 5px;
+  color: #fff;
+  padding: 5px 20px 5px 20px;
+  border: none;
+  font-weight: 600;
+  /* margin-right: 10px; */
+}
+
+.tip-amount-active {
+  background-color: rgba(120, 240, 223) !important;
+  color: rgba(0, 74, 75) !important ;
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  border: none;
+  font-weight: 600;
+}
+
+.tip-amount1 {
+  background: rgba(0, 74, 75) !important;
+  border-radius: 15px;
+  color: #fff;
+  padding: 5px 15px 5px 15px;
+  border: none;
+  font-weight: 600;
+  position: relative;
+}
+
+.reset-button-margin {
+  /* margin-bottom: 120px; */
+}
+
+.custom-button {
+  background: rgb(241, 249, 251) !important;
+  border-radius: 5px;
+  color: rgba(0, 74, 75) !important;
+  padding: 5px 10px 5px 10px;
+  border: none;
+  font-weight: 600;
+  /* margin-right: 10px; */
+}
+
+.input-example {
+  width: 20%;
+}
+
+.heading {
+  color: rgba(0, 74, 75) !important;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.bill-input {
+  background: rgb(241, 249, 251) !important;
+  border: none !important;
+  color: rgba(0, 74, 75) !important;
+}
